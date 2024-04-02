@@ -1,0 +1,21 @@
+commit 523f253eafd76bcd1ade60575bd66c8f1c00fb34 (HEAD -> master, origin/master)
+Author: marijajoveva <jovevamarija9@gmail.com>
+Date:   Tue Apr 2 22:08:07 2024 +0200
+
+    Initial commit
+
+commit 820f5e1d38810a433c36815fbda8a10bf4ef1adf (origin/bug1, bug1)
+Author: marijajoveva <jovevamarija9@gmail.com>
+Date:   Sun Mar 31 23:48:20 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 2b183fa2d57fe37f7ba33cebe7ca8a4493ad330c
+Author: marijajoveva <jovevamarija9@gmail.com>
+Date:   Sun Mar 31 23:44:01 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 289bcf132508fb5912e0ac29355d4863cdf976c0
+Author: marijajoveva <jovevamarija9@gmail.com>
+Date:   Sun Mar 31 22:08:55 2024 +0200
